@@ -1,0 +1,10 @@
+2024-04-11 23:22:58 INFO ====== WebDriver manager ======
+2024-04-11 23:22:59 INFO Get LATEST chromedriver version for google-chrome
+2024-04-11 23:22:59 INFO Get LATEST chromedriver version for google-chrome
+2024-04-11 23:22:59 INFO Driver [C:\Users\Victus\.wdm\drivers\chromedriver\win64\123.0.6312.122\chromedriver-win32/chromedriver.exe] found in cache
+2024-04-11 23:23:00 INFO Test 1 Starting
+2024-04-11 23:23:03 INFO Send arpamipa8844444 to element //*[@id="login"]/div[1]/label/input
+2024-04-11 23:23:03 INFO Send 94409a67f2 to element //*[@id="login"]/div[2]/label/input
+2024-04-11 23:23:03 INFO Click login button
+2024-04-11 23:23:05 INFO Login successful
+2024-04-11 23:23:05 INFO Creating a new post
