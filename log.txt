@@ -1,0 +1,20 @@
+2024-04-15 17:54:20 INFO ====== WebDriver manager ======
+2024-04-15 17:54:20 INFO Get LATEST chromedriver version for google-chrome
+2024-04-15 17:54:20 INFO Get LATEST chromedriver version for google-chrome
+2024-04-15 17:54:21 INFO Driver [C:\Users\Victus\.wdm\drivers\chromedriver\win64\123.0.6312.122\chromedriver-win32/chromedriver.exe] found in cache
+2024-04-15 17:54:22 INFO Test 1 Starting
+2024-04-15 17:54:22 INFO Send test to element login form
+2024-04-15 17:54:22 INFO Send test to element pasword form
+2024-04-15 17:54:24 INFO Test 2 Starting
+2024-04-15 17:54:24 INFO Send arpamipa8844444 to element login form
+2024-04-15 17:54:24 INFO Send 94409a67f2 to element pasword form
+2024-04-15 17:54:25 INFO Test3 Starting
+2024-04-15 17:54:25 INFO Send NEW POST to element title form
+2024-04-15 17:54:25 INFO Send MY NEW WORK. to element description form
+2024-04-15 17:54:25 INFO Send NEW NAILS , 2024 TRENDS. to element content form
+2024-04-15 17:54:28 INFO Test Contact_us Starting
+2024-04-15 17:54:29 INFO Send arpamipa8844444 to element contact name form
+2024-04-15 17:54:29 INFO Send armpapanyanh@gmail.com to element contact email form
+2024-04-15 17:54:29 INFO Send Hello World! to element contact content form
+2024-04-15 17:54:30 INFO Get alert message
+2024-04-15 17:54:30 INFO Alert message is Form successfully submitted
