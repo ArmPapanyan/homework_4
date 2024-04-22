@@ -1,0 +1,20 @@
+address: https://test-stand.gb.ru
+browser: chrome
+sleep_time: 5
+
+login: "arpamipa8844444"
+password: "94409a67f2"
+title_hello: "Hello, arpamipa8844444"
+
+title: "NEW POST"
+description: "MY NEW WORK."
+content: "NEW NAILS , 2024 TRENDS."
+
+username: arpamipa8844444
+user_email: armpapanyanh@gmail.com
+content_contact: "Hello World!"
+
+url_login: https://test-stand.gb.ru/gateway/login
+url_post: https://test-stand.gb.ru/api/posts
+address_post: https://test-stand.gb.ru/gateway/posts
+not_me_title: 'THE END, SO FAR'
